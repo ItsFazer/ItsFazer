@@ -4,6 +4,12 @@
 
 💻 **Skills:** Python · SQL · Pandas · NumPy · Matplotlib · Statistics · A/B testing
 
+📂 **Selected projects:**
+
+- [Online school analytics](https://github.com/ItsFazer/edtech-product-analytics) — payment data cleaning, channel metrics, ARPU/ARPPU and refunds.
+- [A/B test simulations](https://github.com/ItsFazer/ab-test-simulations) — Welch's t-test, A/A checks and power simulations.
+- [Fraud model evaluation](https://github.com/ItsFazer/fraud-model-evaluation) — validation-based threshold selection and held-out evaluation.
+
 🏆 **Achievements:**
 
 - 🥉 **DANO hackathons:** 3rd place in Yekaterinburg and 4th place in Perm.
